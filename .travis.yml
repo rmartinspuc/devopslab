@@ -24,3 +24,4 @@ deploy:
   edge: true 
   app: devopslab-rmartins
   on:
+    branch: main
